@@ -4,3 +4,8 @@
     margin-top: 30px;
     text-align: center;
 }
+
+.imgC {
+    display: grid;
+    width: 300px;
+}

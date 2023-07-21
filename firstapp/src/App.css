@@ -8,3 +8,8 @@ body {
   margin-top: 30px;
   text-align: center;
 }
+
+.imgP {
+  display: grid;
+  width: 300px;
+}
