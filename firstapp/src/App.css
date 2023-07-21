@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(152, 5, 5);
+}
+
+.parent {
+  color: white;
+  background-color: black;
+  margin-top: 30px;
+  text-align: center;
+}
