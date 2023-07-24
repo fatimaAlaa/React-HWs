@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    margin: 5% 3%;
+}
+
+ul {
+    list-style: square;
+    display: inline-block;
+}

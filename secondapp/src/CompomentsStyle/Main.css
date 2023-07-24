@@ -1,0 +1,13 @@
+div{
+    height: 500px;
+    background-color: rgb(142, 4, 4);
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+}
+h1 {
+    /* width:500px; */
+    background: gray;
+    /* text-align: center; */
+    align-self: center;
+}
