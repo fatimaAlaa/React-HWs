@@ -4,7 +4,7 @@ body {
     margin: 5% 3%;
 }
 
-div ul {
+ul {
     list-style: square;
     display: inline-block;
 }
