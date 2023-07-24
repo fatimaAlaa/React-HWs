@@ -30,7 +30,7 @@ function STDavalibllity() {
                                 {name.name}
                             </h4>
                             <p>
-                                {name.status}
+                               She is {name.status}
                             </p>
                         </li>
                     ))
