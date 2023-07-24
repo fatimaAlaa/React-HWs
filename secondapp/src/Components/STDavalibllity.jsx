@@ -21,7 +21,7 @@ function STDavalibllity() {
     ]
     return (
         <div>
-            <h1>Students List</h1>
+            <h1> Students List </h1>
             <ul>
                 {
                     names.map((name) => (
